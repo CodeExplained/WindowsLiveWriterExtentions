@@ -1,0 +1,20 @@
+c:\users\jodonoghue\documents\visual studio 2015\Projects\Windows Live Writer Extentions\WPCodeSnippets\bin\Debug\WPCodeSnippets.exe
+c:\users\jodonoghue\documents\visual studio 2015\Projects\Windows Live Writer Extentions\WPCodeSnippets\bin\Debug\WPCodeSnippets.pdb
+c:\users\jodonoghue\documents\visual studio 2015\Projects\Windows Live Writer Extentions\WPCodeSnippets\bin\Debug\WPCodeSnippets.xml
+c:\users\jodonoghue\documents\visual studio 2015\Projects\Windows Live Writer Extentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.vbprojResolveAssemblyReference.cache
+c:\users\jodonoghue\documents\visual studio 2015\Projects\Windows Live Writer Extentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.Resources.resources
+c:\users\jodonoghue\documents\visual studio 2015\Projects\Windows Live Writer Extentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.vbproj.GenerateResource.Cache
+c:\users\jodonoghue\documents\visual studio 2015\Projects\Windows Live Writer Extentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.exe
+c:\users\jodonoghue\documents\visual studio 2015\Projects\Windows Live Writer Extentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.xml
+c:\users\jodonoghue\documents\visual studio 2015\Projects\Windows Live Writer Extentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.pdb
+c:\users\jodonoghue\documents\visual studio 2015\Projects\Windows Live Writer Extentions\WPCodeSnippets\bin\Debug\WPCodeSnippets.exe.config
+C:\Users\jodonoghue\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\bin\Debug\WPCodeSnippets.exe.config
+C:\Users\jodonoghue\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.exe
+C:\Users\jodonoghue\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.xml
+C:\Users\jodonoghue\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.pdb
+C:\Users\jodonoghue\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\bin\Debug\WPCodeSnippets.exe
+C:\Users\jodonoghue\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\bin\Debug\WPCodeSnippets.pdb
+C:\Users\jodonoghue\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\bin\Debug\WPCodeSnippets.xml
+C:\Users\jodonoghue\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.vbprojResolveAssemblyReference.cache
+C:\Users\jodonoghue\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.Resources.resources
+C:\Users\jodonoghue\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.vbproj.GenerateResource.Cache

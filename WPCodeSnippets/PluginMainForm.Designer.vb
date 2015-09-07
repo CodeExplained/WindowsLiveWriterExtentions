@@ -22,8 +22,66 @@ Partial Class PluginMainForm
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        components = New System.ComponentModel.Container
+        Me.SelectionListBox = New System.Windows.Forms.ListBox()
+        Me.CreateNewBt = New System.Windows.Forms.Button()
+        Me.EditBt = New System.Windows.Forms.Button()
+        Me.CloseBt = New System.Windows.Forms.Button()
+        Me.SuspendLayout()
+        '
+        'SelectionListBox
+        '
+        Me.SelectionListBox.FormattingEnabled = True
+        Me.SelectionListBox.Location = New System.Drawing.Point(12, 46)
+        Me.SelectionListBox.Name = "SelectionListBox"
+        Me.SelectionListBox.Size = New System.Drawing.Size(234, 264)
+        Me.SelectionListBox.TabIndex = 0
+        '
+        'CreateNewBt
+        '
+        Me.CreateNewBt.Location = New System.Drawing.Point(12, 12)
+        Me.CreateNewBt.Name = "CreateNewBt"
+        Me.CreateNewBt.Size = New System.Drawing.Size(108, 23)
+        Me.CreateNewBt.TabIndex = 3
+        Me.CreateNewBt.Text = "Create New..."
+        Me.CreateNewBt.UseVisualStyleBackColor = True
+        '
+        'EditBt
+        '
+        Me.EditBt.Location = New System.Drawing.Point(138, 12)
+        Me.EditBt.Name = "EditBt"
+        Me.EditBt.Size = New System.Drawing.Size(108, 23)
+        Me.EditBt.TabIndex = 4
+        Me.EditBt.Text = "Edit..."
+        Me.EditBt.UseVisualStyleBackColor = True
+        '
+        'CloseBt
+        '
+        Me.CloseBt.Location = New System.Drawing.Point(82, 324)
+        Me.CloseBt.Name = "CloseBt"
+        Me.CloseBt.Size = New System.Drawing.Size(90, 23)
+        Me.CloseBt.TabIndex = 5
+        Me.CloseBt.Text = "Close"
+        Me.CloseBt.UseVisualStyleBackColor = True
+        '
+        'PluginMainForm
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.Text = "PluginMainForm"
+        Me.ClientSize = New System.Drawing.Size(258, 359)
+        Me.Controls.Add(Me.CloseBt)
+        Me.Controls.Add(Me.EditBt)
+        Me.Controls.Add(Me.CreateNewBt)
+        Me.Controls.Add(Me.SelectionListBox)
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
+        Me.Name = "PluginMainForm"
+        Me.Text = "WLW Snippets"
+        Me.ResumeLayout(False)
+
     End Sub
+
+    Friend WithEvents SelectionListBox As Windows.Forms.ListBox
+    Friend WithEvents CreateNewBt As Windows.Forms.Button
+    Friend WithEvents EditBt As Windows.Forms.Button
+    Friend WithEvents CloseBt As Windows.Forms.Button
 End Class

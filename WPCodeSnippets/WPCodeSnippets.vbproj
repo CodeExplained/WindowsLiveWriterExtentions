@@ -82,6 +82,18 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EditorForm.Designer.vb">
+      <DependentUpon>EditorForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditorForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertSnippetForm.Designer.vb">
+      <DependentUpon>InsertSnippetForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InsertSnippetForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -103,13 +115,23 @@
     <Compile Include="PluginMainForm.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Snippet.vb" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="EditorForm.resx">
+      <DependentUpon>EditorForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertSnippetForm.resx">
+      <DependentUpon>InsertSnippetForm.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PluginMainForm.resx">
+      <DependentUpon>PluginMainForm.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

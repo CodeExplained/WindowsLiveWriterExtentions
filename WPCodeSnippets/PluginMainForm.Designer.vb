@@ -22,10 +22,12 @@ Partial Class PluginMainForm
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(PluginMainForm))
         Me.SelectionListBox = New System.Windows.Forms.ListBox()
         Me.CreateNewBt = New System.Windows.Forms.Button()
         Me.EditBt = New System.Windows.Forms.Button()
         Me.CloseBt = New System.Windows.Forms.Button()
+        Me.InsertBt = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'SelectionListBox
@@ -56,22 +58,33 @@ Partial Class PluginMainForm
         '
         'CloseBt
         '
-        Me.CloseBt.Location = New System.Drawing.Point(82, 324)
+        Me.CloseBt.Location = New System.Drawing.Point(138, 322)
         Me.CloseBt.Name = "CloseBt"
-        Me.CloseBt.Size = New System.Drawing.Size(90, 23)
+        Me.CloseBt.Size = New System.Drawing.Size(108, 23)
         Me.CloseBt.TabIndex = 5
         Me.CloseBt.Text = "Close"
         Me.CloseBt.UseVisualStyleBackColor = True
+        '
+        'InsertBt
+        '
+        Me.InsertBt.Location = New System.Drawing.Point(12, 322)
+        Me.InsertBt.Name = "InsertBt"
+        Me.InsertBt.Size = New System.Drawing.Size(108, 23)
+        Me.InsertBt.TabIndex = 6
+        Me.InsertBt.Text = "Insert Snippet"
+        Me.InsertBt.UseVisualStyleBackColor = True
         '
         'PluginMainForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(258, 359)
+        Me.Controls.Add(Me.InsertBt)
         Me.Controls.Add(Me.CloseBt)
         Me.Controls.Add(Me.EditBt)
         Me.Controls.Add(Me.CreateNewBt)
         Me.Controls.Add(Me.SelectionListBox)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.MinimizeBox = False
         Me.Name = "PluginMainForm"
@@ -84,4 +97,5 @@ Partial Class PluginMainForm
     Friend WithEvents CreateNewBt As Windows.Forms.Button
     Friend WithEvents EditBt As Windows.Forms.Button
     Friend WithEvents CloseBt As Windows.Forms.Button
+    Friend WithEvents InsertBt As Windows.Forms.Button
 End Class

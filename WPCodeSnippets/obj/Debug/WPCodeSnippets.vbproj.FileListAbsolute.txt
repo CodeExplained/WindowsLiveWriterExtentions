@@ -25,9 +25,9 @@ C:\Users\jpodo\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSn
 C:\Users\jpodo\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\bin\Debug\WPCodeSnippets.exe
 C:\Users\jpodo\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\bin\Debug\WPCodeSnippets.pdb
 C:\Users\jpodo\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\bin\Debug\WPCodeSnippets.xml
-C:\Users\jpodo\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.vbprojResolveAssemblyReference.cache
 C:\Users\jpodo\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.EditorForm.resources
 C:\Users\jpodo\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.InsertSnippetForm.resources
 C:\Users\jpodo\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.Resources.resources
 C:\Users\jpodo\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.PluginMainForm.resources
 C:\Users\jpodo\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\obj\Debug\WPCodeSnippets.vbproj.GenerateResource.Cache
+C:\Users\jpodo\Documents\GitHubVisualStudio\WindowsLiveWriterExtentions\WPCodeSnippets\bin\Debug\favicon.ico
